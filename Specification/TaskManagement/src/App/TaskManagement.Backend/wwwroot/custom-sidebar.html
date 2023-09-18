@@ -1,0 +1,31 @@
+﻿<div class="sidebar" id="mySidenav">
+	<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+	<a class="active" href="/">Home</a>
+	<a href="#news">News</a>
+	<a href="#contact">Contact</a>
+	<a href="#about">About</a>
+</div>
+<script>
+	document.addEventListener('DOMContentLoaded',
+		function() {
+			document.addEventListener("click",
+				function(e) {
+					const target = e.target.closest(".topbar-wrapper a.link"); // Or any other selector.
+					if (target) {
+						// Do something with `target`.
+						openNav();
+					}
+				});
+		},
+		false);
+
+	function openNav() {
+		document.getElementById("mySidenav").style.width = "250px";
+		//document.getElementById("swagger-ui").style.marginLeft = "250px";
+	}
+
+	function closeNav() {
+		document.getElementById("mySidenav").style.width = "0";
+		//document.getElementById("swagger-ui").style.marginLeft = "0";
+	}
+</script>

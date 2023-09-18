@@ -1,0 +1,17 @@
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\bin\Debug\net7.0\TravelAgency.Models.deps.json
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\bin\Debug\net7.0\TravelAgency.Models.dll
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\bin\Debug\net7.0\TravelAgency.Models.pdb
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\bin\Debug\net7.0\TravelAgency.Shared.dll
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\bin\Debug\net7.0\TravelAgency.Shared.pdb
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.csproj.AssemblyReference.cache
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.AssemblyInfoInputs.cache
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.AssemblyInfo.cs
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.csproj.CoreCompileInputs.cache
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.csproj.CopyComplete
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.dll
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\refint\TravelAgency.Models.dll
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.pdb
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\ref\TravelAgency.Models.dll
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\bin\Debug\net7.0\TravelAgency.Models.runtimeconfig.json
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Models\obj\Debug\net7.0\TravelAgency.Models.genruntimeconfig.cache

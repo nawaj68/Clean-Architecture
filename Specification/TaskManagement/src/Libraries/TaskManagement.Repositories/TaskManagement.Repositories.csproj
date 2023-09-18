@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Concrete\CompanyRepository.cs" />
+    <Compile Remove="Concrete\ProductRepository.cs" />
+    <Compile Remove="Concrete\UsersRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ardalis.Specification.EntityFrameworkCore" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskManagement.Infrastructure\TaskManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\TaskManagement.Models\TaskManagement.Models.csproj" />
+    <ProjectReference Include="..\TaskManagement.Service.Models\TaskManagement.Service.Models.csproj" />
+    <ProjectReference Include="..\TaskManagment.Shared\TaskManagement.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

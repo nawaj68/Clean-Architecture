@@ -1,0 +1,17 @@
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\bin\Debug\net7.0\TravelAgency.Service.Model.deps.json
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\bin\Debug\net7.0\TravelAgency.Service.Model.dll
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\bin\Debug\net7.0\TravelAgency.Service.Model.pdb
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\obj\Debug\net7.0\TravelAgency.Service.Model.csproj.AssemblyReference.cache
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\obj\Debug\net7.0\TravelAgency.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\obj\Debug\net7.0\TravelAgency.Service.Model.AssemblyInfoInputs.cache
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\obj\Debug\net7.0\TravelAgency.Service.Model.AssemblyInfo.cs
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\obj\Debug\net7.0\TravelAgency.Service.Model.csproj.CoreCompileInputs.cache
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\obj\Debug\net7.0\TravelAgency.Service.Model.dll
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\obj\Debug\net7.0\refint\TravelAgency.Service.Model.dll
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\obj\Debug\net7.0\TravelAgency.Service.Model.pdb
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\obj\Debug\net7.0\ref\TravelAgency.Service.Model.dll
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\bin\Debug\net7.0\TravelAgency.Service.Model.runtimeconfig.json
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\obj\Debug\net7.0\TravelAgency.Service.Model.genruntimeconfig.cache
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\bin\Debug\net7.0\TravelAgency.Shared.dll
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\bin\Debug\net7.0\TravelAgency.Shared.pdb
+E:\office file\MVCcoreTest\TravelAgency\TravelAgency.Service.Model\obj\Debug\net7.0\TravelAgency.Service.Model.csproj.CopyComplete

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.6.0" />
+    <PackageReference Include="JetBrains.Annotations" Version="2022.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskManagement.Models\TaskManagement.Models.csproj" />
+    <ProjectReference Include="..\TaskManagment.Shared\TaskManagement.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
